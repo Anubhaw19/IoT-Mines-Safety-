@@ -9,6 +9,7 @@ Using **NodeMCU(esp8266MOD)** as network gateway.
  ## Components
  <p align="left">
   <img  src=circuit.jpeg>
+ 
 - Circuit with different sensors connected.<br>
   </p>
   
@@ -16,6 +17,7 @@ Using **NodeMCU(esp8266MOD)** as network gateway.
  ## Data Analysis
  <p align="left">
   <img  src=chart.jpeg>
+ 
 - analyzing data from the chart and serial monitor. <br>
   </p>
 
