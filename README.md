@@ -1,4 +1,4 @@
-# IoT-Mines-Saftey-
+# IoT-Mines-Safety-
 basic model to monitoring:
 - Methane Gas using (**MQ4 sensor**).
 - Humidity and Temperature measurement using (**DHT11 sensor**).
